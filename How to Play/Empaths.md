@@ -1,0 +1,13 @@
+# Empaths
+When a character has ranks in the Psiotics attribute, they possess some degree of psychic potential. This is a blessing and a curse, because the character has an extraordinary sixth sense they can leverage, but they also must suffer the Storm -- a constant psychokinetic stream of emotions, visions, and ideas from the world around them. An empath who can control their connection to the Storm enough to single out individual targets is rare and highly valued, but often they have had a life of extreme suffering in some form or another. Chased by corporates looking to weaponize their skills, hated and feared by the general public, or plain driven to the edge of madness by the neverending sensations of the storm, life for an empath is cruel even by the standards of the world of BRINK. 
+## Empathic Abilities
+At minimum, empaths can sense the presence of other living things. Human beings stand out in particular in this regard, and some empaths can use this sense to "see" people who are not otherwise obvious. This is, like everything Empaths do, only a vague impression -- however it is useful to be able to tell when people are coming or going. 
+Empaths can detect the emotions of others, and see their thoughts in the form of vague imagery. Literal words and voices are very hard to discern as these are constructs of human learning, but exceptional empaths may be able to pick up literal words or voices in pieces if they focus and the Storm is at bay. 
+Some Empaths can project into others, affecting these emotions or thoughts. It is not an outright command to be obeyed, but more of an influence, leaning another person toward a conclusion or action that was already in their thoughts. 
+## Empathic Technology
+The idea that any random person on the street might be able to do these things is of great concern to everyone from law enforcement to corporations to folks on the streets. A great deal of effort has been put in to understand this rare gift -- and either detect, contain, or exploit it. 
+
+* *Noise Generators* are tech that is used to increase the harrowing presence of the Storm, to keep empaths out of certain areas. 
+* *Synaptic Suppressants* are drugs an empath can take to suppress the Storm, as well as their abilities, temporarily. 
+* *Kinetics* are haptic device which allow an empath to exert force on nearby objects. Though very short ranged, these devices sometimes can be weaponized to 
+* **Kinesis**: With great effort, psiotics can exert pressure against things in the physical world. This allows them to feel and touch things from a short distance away.

@@ -1,0 +1,6 @@
+# Dice Types
+In BRINK, when an uncertain outcome needs to play out, dice are used. There are multiple dice types used in BRINK, represented as different colors of a unique six-sided die which have two pulses (+), two flatlines (-), and two blanks ( _ ) . 
+Generally, + results are good -- they generate Effect, which is used to determine if you succeed at your actions. Since the dice in BRINK represent elements of the fiction in effect for an action, there are three types of dice in every dice pool:
+* **Each dice pool starts by adding a number of base dice.** Base dice represent what you are trying to do, and typically are drawn from a Capability rating from the character sheet. Results of + generate Effect (see Effect, page ##).
+* **Modifiers replace base dice with more beneficial Edge dice.** Edge dice represent some advantage that you have within a Capability, such as your Attributes. They work the same as base dice, except that you can re-roll any results that fail to generate effect. 
+* **Use of Assets grants additional Limit dice to the pool.** Limit dice represent a trade-off; they are extra dice that benefit you, their - results count against you in some way. Typically this involves depleting an Asset -- ammunition, for example.
